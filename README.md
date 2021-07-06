@@ -1,5 +1,6 @@
 # Edge-Detection-using-Laplacian-Operator
 Step by step process to detect the edges in the image using the Laplacian operator.
+
 Laplacian operator is a second order derivative mask which has two further classifications as positive Laplacian operator and negative Laplacian operator. 
 
 1.	Load the image using the function Mat img = imread(argv[1], 1);
